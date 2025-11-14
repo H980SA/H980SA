@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋, I'm Heidinger</h1>
-<h3 align="center">Full-stack developer specialized in modern frontend development using React, TypeScript, and Laravel. Experienced in backend architecture with Python, with a strong focus on intelligent systems, AI agents, and process automation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h980sa" alt="h980sa" /></a> </p>
+<h3 align="center">
+I build conversational AI systems that handle real users in production
+</h3>
 
-- 🔭 I’m currently working on **closify**
+<p align="center">
+  <strong>Recent:</strong> Sales automation agent (1,800+ conversations) • 
+  Document analysis RAG system • Multi-agent WhatsApp bots
+</p>
 
-- 💬 Ask me about **AI**
+<br>
+
+### 🚀 What I'm building
+
+**Conversational AI Platforms**  
+End-to-end systems: RAG pipelines, agent orchestration, custom UIs, production deployment
+
+**Current focus:** Multi-agent architectures with LangGraph, real-time dashboards, vector databases
+
+---
+
+<sub>💼 Teaching Robotics & AI at PUCP | 🇵🇪 Based in Lima</sub>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
